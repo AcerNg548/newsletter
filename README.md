@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://newsletter-kuwlup9ew-acerng548.vercel.app)
+- Live Site URL: [Newsletter](https://newsletter-kuwlup9ew-acerng548.vercel.app)
 
 ## My process
 
