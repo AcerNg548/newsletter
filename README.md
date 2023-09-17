@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution_URL](https://www.frontendmentor.io/solutions/newsletter-signup-dXtgFRV06g)
 - Live Site URL: [Newsletter](https://newsletter-kuwlup9ew-acerng548.vercel.app)
 
 ## My process
