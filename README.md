@@ -33,7 +33,7 @@ Users should be able to:
   <img src="./public//mobilePage1.jpg" width="200" height="393" />
 
   
-  <img src="./public//desktopPage2.jpg" width="250" height="393"/>
+  <img src="./public//mobilePage2.jpg" width="250" height="393"/>
 </div>
 
 ### Links
